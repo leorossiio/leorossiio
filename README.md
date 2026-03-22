@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Leonardo!
 
-<!--
-**leorossiio/leorossiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação
+💻 Desenvolvedor Full-Stack
+🚀 Apaixonado por tecnologia e inovação
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: Angular, HTML, CSS, JavaScript
+- Backend: Node.js, .NET
+- Banco de Dados: PostgreSQL, MongoDB, SQLServer, PLSQL
+- Ferramentas: Git, Docker, Jira, Trello, Azure Devops
+
+## 🔥 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leorossiio&layout=compact&theme=tokyonight)
+
+## 🚀 Tecnologias e Ferramentas
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/leonardo-rossi-de-oliveira/
+- Email: leonardorossioliveira@gmail.com
