@@ -11,10 +11,6 @@
 - Banco de Dados: PostgreSQL, MongoDB, SQLServer, PLSQL
 - Ferramentas: Git, Docker, Jira, Trello, Azure Devops
 
-## 🔥 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leorossiio&layout=compact&theme=tokyonight)
-
 ## 🚀 Tecnologias e Ferramentas
 
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)
