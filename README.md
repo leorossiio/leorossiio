@@ -1,3 +1,5 @@
+# 👋 Bem vindo ao meu perfil!
+
 🎓 Estudante de **Engenharia da Computação (9º semestre - FACENS)**
 💻 **Desenvolvedor Full-Stack | Suporte TI | Engenharia de Software**
 🚀 Apaixonado por tecnologia, inovação e construção de soluções escaláveis
